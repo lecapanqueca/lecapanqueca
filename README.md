@@ -36,7 +36,7 @@ Também conhecida na internet como <b>Leca Panqueca</b> 🌊
 
 Alguns projetos que estou criando enquanto aprendo desenvolvimento:
 
-- 🎮 Bots e comandos para **StreamElements**
+
 - 🌐 Projetos simples de **HTML, CSS e JavaScript**
 - 🛠️ Ferramentas para ajudar **streamers**
 
