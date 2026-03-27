@@ -12,11 +12,13 @@ Também conhecida na internet como <br><br>
 
 ---
 
-### 🛠️ Aprendendo
+
 
 <table>
 <tr>
 <td width="60%">
+
+### 🛠️ Aprendendo
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px">
@@ -71,8 +73,5 @@ Também conhecida na internet como <br><br>
 <img src="./assets/poring.gif">
 </p>
 
-<div align="center" >
-<img src="https://raw.githubusercontent.com/lecapanqueca/lecapanqueca/output/snake.svg" alt="Snake animation" />
-</div>
 
 
