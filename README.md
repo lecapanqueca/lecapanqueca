@@ -36,7 +36,7 @@ Também conhecida na internet como <br><br>
 ### 🎮 Sobre mim
 
 - 💻 Front-End Developer em evolução
-- 🚀 Em busca da minha primeira vaga como dev
+- 🚀 1/5 ADS - UNINTER
 - 🎥 Faço lives na Twitch
 - 🧙‍♀️ Jogo MMORPGs
 
